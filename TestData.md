@@ -1,4 +1,5 @@
 ###cbooo.cn remote data
+1. Apiµÿ÷∑
 | name | Api-Demo | params | data|
 |:-------------|:-------------:|:-------------:|-----------:|
-| jinripaipian | http://m.cbooo.cn/Movie/GetRowPiece?mId=639004&isHj=0 | {mId:639004,isHj:0} | |
+| ΩÒ»’≈≈∆¨ | http://m.cbooo.cn/Movie/GetRowPiece?mId=639004&isHj=0 | {mId:639004,isHj:0} | |
